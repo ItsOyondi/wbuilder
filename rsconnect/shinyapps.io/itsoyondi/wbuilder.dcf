@@ -1,0 +1,13 @@
+name: wbuilder
+title: wbuilder
+username:
+account: itsoyondi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7368313
+bundleId: 6481703
+url: https://itsoyondi.shinyapps.io/wbuilder/
+when: 1667752939.90171
+lastSyncTime: 1667752939.90172
+asMultiple: FALSE
+asStatic: FALSE
